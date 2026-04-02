@@ -1,8 +1,10 @@
 %% Nonlinear simulations for two-wheeled trailers
 % 4 DoF model, q = [psi, theta, fi, u]
-% based on: H. Z. Horvath and D. Takacs. “Stability and local bifurcation analyses of two-wheeled trailers 
-% considering the nonlinear coupling between lateral and vertical motions.” 
-% In: Nonlinear Dynamics 107.3 (2022), pp. 2115–2132. doi: 10.1007/s11071-021-07120-9.
+
+% based on: H. Z. Horvath, D. Takacs, M. Antali: 
+% Effects of differential braking and tire contact modeling 
+% on the stability and nonlinear dynamics of towed two-wheeled trailers 
+% (2026). Manuscript submitted for publication.
 
 clear all;
 close all;
